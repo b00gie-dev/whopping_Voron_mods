@@ -31,23 +31,20 @@ I've found that this seals the chamber much more effectively than the stock door
  - The sleeve bearings are the same size as used in the sexbolt endstop mod. You might have some on hand already!
  - 1/8" acrylic *sorta* works, but the extra 0.175mm makes the mounting strip *really* tight. I strongly recommend using actual 3mm thick stuff!  
 
-|                           | **V2.4** | **VT** | **Qty** | **250**                 | **300**                 | **350**                 | **Link**                                                                                                                                                     |
-| ------------------------- | -------- | ------ | ------- | ----------------------- | ----------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Door Frame X**          | **X**    | **X**  | 2       | HFSFB5-2020-370-TPW     | HFSFB5-2020-420-TPW     | HFSFB5-2020-470-TPW     |    [Misumi](https://us.misumi-ec.com/vona2/detail/110302683920/?HissuCode=HFSFB5-2020)                                                                                                                                                          |
-| **Door Frame Z**          | **X**    |        | 2       | HFSFB5-2020-430-LCH-RCH | HFSFB5-2020-480-LCH-RCH | HFSFB5-2020-530-LCH-RCH |  [Misumi](https://us.misumi-ec.com/vona2/detail/110302683920/?HissuCode=HFSFB5-2020)                                                                                                                                                            |
-| **Door Frame Z**          |          | **X**  | 2       | HFSFB5-2020-500-LCH-RCH | HFSFB5-2020-500-LCH-RCH | HFSFB5-2020-500-LCH-RCH |  [Misumi](https://us.misumi-ec.com/vona2/detail/110302683920/?HissuCode=HFSFB5-2020)                                                                                                                                                            |
-| **Panel Retainer**        | **X**    | **X**  | 1       | HSCPF3H-B-2000          | HSCPF3H-B-2000          | HSCPF3H-B-2000          | [Misumi](https://us.misumi-ec.com/vona2/detail/110302263040/?HissuCode=HSCPF3H-B-2000) |
-| **Door Panel**            | **X**    |        | 1       | 380mm x 400mm           | 430mm x 450mm           | 480mm x 500mm           | [US Plastic](https://www.usplastic.com/catalog/item.aspx?itemid=35665&catid=442)                                                                                           |
-| **Door Panel**            |          | **X**  |         | 380mm x 470mm           | 430mm x 470mm           | 480mm x 470mm           | [US Plastic](https://www.usplastic.com/catalog/item.aspx?itemid=35665&catid=442)                                                                                                                                                              |
-|                           |          |        |         |                         |                         |                         |                                                                                                                                                              |
-| **M5x7x8 split_bushing**  | **X**    | **X**  | 6       |                         |                         |                         | [AliExpress (Affiliate)](https://s.click.aliexpress.com/e/_Dk0MBRd)                                                                       |
-| **M5x45 Dowel Pin**       | **X**    | **X**  | 4       |                         |                         |                         | [AliExpress (Affiliate)](https://s.click.aliexpress.com/e/_DkDzN4B)                                                                       |
-| **M3x20 SHCS**            | **X**    | **X**  | 4       |                         |                         |                         |                                                                                                                                                              |
-| **M3x8 SHCS**             | **X**    | **X**  | 12      |                         |                         |                         |                                                                                                                                                              |
-| **6x3mm magnet**          | **X**    | **X**  | 12      |                         |                         |                         |                                                                                                                                                              |
-| **M3x8 BHCS**             | **X**    | **X**  | 1       |                         |                         |                         |                                                                                                                                                              |
-| **M3x5x4 Heatset Insert** | **X**    | **X**  | 1       |                         |                         |                         |                                                                                                                                                              |
-| **M5x16 BHCS**             | **X**    | **X**  | 4       |                         |                         |                         |                                                                                                                                                              |
+| **V2.4 771 300x300x350**  | **Qty** | **Part number**         |
+| ------------------------- | ------- | ----------------------- |
+| **Door Frame X**          | 2       | HFSFB5-2020-420-TPW     |
+| **Door Frame Z**          | 2       | HFSFB5-2020-530-LCH-RCH |
+| **Panel Retainer**        | 1       | HSCPF3H-B-2000          |
+| **Door Panel**            | 1       | 430mm x 500mm           |
+| **M5x7x8 split_bushing**  | 6       |                         |
+| **M5x45 Dowel Pin**       | 4       |                         |
+| **M3x20 SHCS**            | 4       |                         |
+| **M3x8 SHCS**             | 12      |                         |
+| **6x3mm magnet**          | 12      |                         |
+| **M3x8 BHCS**             | 1       |                         |
+| **M3x5x4 Heatset Insert** | 1       |                         |
+| **M5x16 BHCS**            | 4       |                         |
 
 
 ## Printing
